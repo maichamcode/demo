@@ -1,0 +1,169 @@
+{
+  "user": {
+    "name": "Đào Xuân Mai",
+    "age": "26/09/2003",
+    "phone": "03933269033",
+    "address": "Hải Dương",
+    "email": "maidaica38@gmail.com",
+    "major": "Deverloper Web"
+  },
+  "skills": [
+    {
+      "title": "Những skill của tôi",
+      "skill1": "Lập trình HTML, CSS, JS, ReactJs, NodeJs",
+      "skill2": "Khả năng chịu được áp lực cao",
+      "skill3": "Làm việc nhóm",
+      "skill4": "Giải quyết vấn đề"
+    }
+  ],
+  "team": [
+    {
+      "name": "Đào Xuân Mai",
+      "pos": "Boss",
+      "img": "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/331333468_921643199270451_2499288013728743551_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=7cVQY4E5ujAAX-PLGa3&_nc_ht=scontent.fhan15-2.fna&oh=03_AdQRNdZ539vAu1qd0ZcmEAH1pW_PBXqbDKEwI8xfcnnl3w&oe=641879BF"
+    },
+    {
+      "name": "Vũ Thị Nhung",
+      "pos": "Member",
+      "img": "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/330926136_1577673852738850_312601969236890712_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LpXIrakQX8wAX8-UALH&_nc_ht=scontent.fhan15-2.fna&oh=03_AdT9oF2a93T9ShqS9hTCqKlq5Fs1toPEGEW1Gf00em1eYg&oe=64187C99"
+    },
+    {
+      "name": "Vũ Đình Quân",
+      "pos": "Member",
+      "img": "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/331467983_3396993857181777_7530684174891562232_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=B67TfZaUNh8AX-KAO2E&_nc_ht=scontent.fhan15-2.fna&oh=03_AdQhPV7LfYeM_gt_cN_oFeB6_Dhy9QjcAwuGVcCBnWzlpg&oe=64188208"
+    },
+    {
+      "name": "Đỗ Thành Trung",
+      "pos": "Member",
+      "img": "https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/331158887_543429777886436_4686449080204209244_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LiAOAlC01vMAX9EjC9g&_nc_ht=scontent.fhan15-1.fna&oh=03_AdReHnpcDiZ4XV6qnrU08EEo3IuY4-6fy9IF0Hx8bWjoCg&oe=64186368"
+    }
+  ],
+  "maxim": [
+    {
+      "name": "Đào Xuân Mai",
+      "phuongCham": "Phương Châm",
+      "title": "Kỷ luật là sức mạnh",
+      "doanvan": "Hãy sống theo đam mê và sự nghiệp của mình",
+      "student": "Student"
+    }
+  ],
+  "menu": [
+    {
+      "path": "/",
+      "name": "Home"
+    },
+    {
+      "path": "/about",
+      "name": "About"
+    },
+    {
+      "path": "/post",
+      "name": "Post"
+    },
+    {
+      "path": "/contact",
+      "name": "Contact"
+    },
+    {
+      "path": "/project",
+      "name": "Project"
+    }
+  ],
+  "menuAdmin": [
+    {
+      "path": "/admin/about/",
+      "name": "AboutAdmin"
+    },
+    {
+      "path": "/admin/post",
+      "name": "PostAdmin"
+    },
+    {
+      "path": "/admin/contact",
+      "name": "ContactAdmin"
+    },
+    {
+      "path": "/admin/project",
+      "name": "ProjectAdmin"
+    }
+  ],
+  "post": [
+    {
+      "title": "Iphone11",
+      "content": "64gb",
+      "author": "mai",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677041802/ECMA/qofyh1hysdy6qjpfhbox.webp"
+      ],
+      "id": 1
+    },
+    {
+      "title": "iphone12",
+      "content": "128gb",
+      "author": "hoai",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677041897/ECMA/bzkbxgixhbtcch7jds3x.webp"
+      ],
+      "id": 2
+    },
+    {
+      "title": "iphone13",
+      "content": "512gb",
+      "author": "trung",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677041982/ECMA/uwmboqo3cpapkggk6yxa.jpg"
+      ],
+      "id": 3
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "lienhe": "Hãy liên hệ với tôi dưới đây",
+      "address": "Hải Dương",
+      "address2": "Gia Lộc Hải Dương",
+      "email": "maidaica38@gmail.com",
+      "email2": "maidxph19878@gmail.com",
+      "phone": "0393326903",
+      "phone2": "0393326903"
+    }
+  ],
+  "project": [
+    {
+      "title": "iphone14",
+      "content": "512gb",
+      "author": "Hoai",
+      "noidung": "Iphone 14 vippro",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677041730/ECMA/wcuelxjnwdjwtl7zkuk4.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "title": "iphone13",
+      "content": "128gb",
+      "author": "Mai",
+      "noidung": "Theo thông báo từ phía Apple, iPhone 13 năm nay sẽ có kích thước màn hình 6.1 inch. Nhìn chung, ngôn ngữ thiết kế vẫn sẽ không có quá nhiều thay đổi so với thế hệ tiền nhiệm iPhone 12, vẫn là các cạnh vát phẳng vuông góc.",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677042052/ECMA/zohlz4hw83a3gvrov3mr.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "title": "iphone11",
+      "content": "512gb",
+      "author": "mai",
+      "noidung": "iphone 11 rat  dep ",
+      "img": [
+        "https://res.cloudinary.com/dbttci0gc/image/upload/v1677009329/ECMA/s2zbzwofmrmnp7zxfvdh.jpg"
+      ],
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "user": "mai123",
+      "pass": "12345"
+    }
+  ]
+}
